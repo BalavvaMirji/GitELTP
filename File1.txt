@@ -5,8 +5,5 @@ File1 is updated
 
 File1 is updated to fix bug1
 
-change1: - file updated by team mate to fix bug2
+change1: - file updated by team mate to fix bug23
 
-cg=hange2: -> to work on CR1 and added arrow sign
-
-change 3: - by team amte for WI^ - login features and added number
